@@ -9,7 +9,7 @@
 <style scoped>
 #app {
   padding: 16px 16px 50px;
-  background: url("assets/kunkun.png");
+  background: url("assets/bg.png");
   min-height: 100vh;
   background-size: 100% 100%;
 }
