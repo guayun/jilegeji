@@ -12,7 +12,7 @@ export const defaultGameConfig: GameConfigType = {
   // 需要多少个一样块的才能合成
   composeNum: 3,
   // 动物类别数
-  typeNum: 12,
+  typeNum: 4,
   // 每层块数（大致）
   levelBlockNum: 24,
   // 边界收缩步长
@@ -34,7 +34,7 @@ export const easyGameConfig: GameConfigType = {
   // 需要多少个一样块的才能合成
   composeNum: 3,
   // 动物类别数
-  typeNum: 8,
+  typeNum: 4,
   // 每层块数（大致）
   levelBlockNum: 10,
   // 边界收缩步长
@@ -56,7 +56,7 @@ export const middleGameConfig: GameConfigType = {
   // 需要多少个一样块的才能合成
   composeNum: 3,
   // 动物类别数
-  typeNum: 10,
+  typeNum: 4,
   // 每层块数（大致）
   levelBlockNum: 12,
   // 边界收缩步长
@@ -78,7 +78,7 @@ export const hardGameConfig: GameConfigType = {
   // 需要多少个一样块的才能合成
   composeNum: 3,
   // 动物类别数
-  typeNum: 12,
+  typeNum: 4,
   // 每层块数（大致）
   levelBlockNum: 16,
   // 边界收缩步长
@@ -100,7 +100,7 @@ export const lunaticGameConfig: GameConfigType = {
   // 需要多少个一样块的才能合成
   composeNum: 3,
   // 动物类别数
-  typeNum: 14,
+  typeNum: 4,
   // 每层块数（大致）
   levelBlockNum: 20,
   // 边界收缩步长
